@@ -1,6 +1,6 @@
 # RealLife React Native Project COMP4511 UNSW
 
-This is a React Native project that has been developed as a gorup assignment for COMP4511 at UNSW.
+This is a React Native project that has been developed as a group assignment for COMP4511 at UNSW.
 RealLife is an app based on React Native that allows user to create and join groups or events for things happening
 around them. RealLife encourages people to go out there and meet new people and to explore new things and to actually live the Real Life.
 
